@@ -1,0 +1,3 @@
+date,week,horse_id,discipline,hoof,shoe_type,shoe_weight_g,thickness_toe_mm,thickness_quarter_mm,thickness_heel_mm,retention,hoof_testers,heat_pulse,aaep_grade,growth_mm,photos_done,video_done,h1_sessions,h1_distance_km,h1_surface,stop_triggered,notes
+,0,H1,race,LF,steel,,,,,,,,,,,,,,,,
+,0,H1,race,RF,steel,,,,,,,,,,,,,,,,
